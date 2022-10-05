@@ -1,6 +1,9 @@
 # gitLab
 git command and notice check
 
+## commit message example
+`refs #109542 ~~이유로 ~~ 변경있었음`
+
 ## git useful command
 `git branch` : branch 확인<br/>
 `git checkout [branch_name]` : 해당 branch로 이동 (`option -b` -> 해당 branch를 생성함과 동시에 checkout)<br/>
