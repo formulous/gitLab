@@ -11,6 +11,7 @@ git command and notice check
 `git checkout [filepath/file_name]` : 해당 file restore (git rm이나 그냥 rm으로 삭제한 경우 restore 하는 방법)<br/>
 `git push origin [branch_name]` : 해당 branch를 master에 push 요청<br/>
 `git status` : git 상태 정보 확인 (수정 사항)<br/>
+`git log` : git commit log 확인<br/>
 
 ## git config command
 `git config --list` : 현재 접속 정보 확인<br/>
